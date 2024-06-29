@@ -1,0 +1,1 @@
+reportgenerator "-reports:C:\Users\julian.herrera\source\repos\AuthTesting\AuthTests\TestResults\01807332-c83c-463e-a138-dad9d6446044\coverage.cobertura.xml" "-targetdir:C:\Users\julian.herrera\source\repos\AuthTesting\AuthTests\coveragereport\reportHTML" -reporttypes:Html
