@@ -5,6 +5,7 @@
         Suma,
         Resta,
         Multiplicacion,
-        Division
+        Division,
+        Desconocida
     }
 }

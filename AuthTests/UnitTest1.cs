@@ -57,5 +57,16 @@ namespace AuthTests
             var any = result;
 
         }
+
+        //[TestMethod]
+        //public void PruebaOperacionDesconocida()
+        //{
+        //    AuthTesting.Program program = new AuthTesting.Program();
+        //    double restaResult = program.MakeOperation(MathOperation.Desconocida, 12, 3);
+        //    Assert.AreEqual(4, restaResult);
+
+        //}
+
+
     }
 }
